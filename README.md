@@ -10,3 +10,4 @@ Counting the characters: This one provides the facility to count the characters 
 Removing the punctuations: Our website also provdes the facility to remove the punctuations from the given text.
 Removing the extra spaces: Text utils can remove the extra spaces present in the text.
 Removing the new lines: Our website also provides the facility to remove the new lines from the text.
+Capitalize the text: The text can also be converted to the upper case by using this website.
